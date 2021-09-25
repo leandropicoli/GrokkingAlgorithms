@@ -1,0 +1,12 @@
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\bin\Debug\net6.0\GrokkingAlgorithms.deps.json
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\bin\Debug\net6.0\GrokkingAlgorithms.dll
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\bin\Debug\net6.0\ref\GrokkingAlgorithms.dll
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\bin\Debug\net6.0\GrokkingAlgorithms.pdb
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.csproj.AssemblyReference.cache
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.AssemblyInfoInputs.cache
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.AssemblyInfo.cs
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.csproj.CoreCompileInputs.cache
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.dll
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\ref\GrokkingAlgorithms.dll
+C:\dev\estudos\GrokkingAlgorithms\src\GrokkingAlgorithms\obj\Debug\net6.0\GrokkingAlgorithms.pdb
